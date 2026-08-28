@@ -44,4 +44,3 @@ streamlit run app.py
 This project builds on three earlier standalone agents (search, SQL, PDF-RAG) and a LangGraph router — this project reuses all three as specialists under one supervisor instead of a single-path router.
 ```
 
-You'll need a `.env` file with:
